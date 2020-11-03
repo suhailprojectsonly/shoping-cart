@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "_id": "mobile1",
+      "image": "/images/mobile1.jpg",
+      "title": "Poco M2 Pro",
+      "Description": "Xiaomi Poco M2 Pro smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa core (2.3 GHz, Dual core, Kryo 465 + 1.8 GHz, Hexa Core, Kryo 465) processor. It runs on the Qualcomm Snapdragon 720G Chipset. It has 4/6 GB RAM and 64/128 GB internal storage.",
+      "price": 12999
+    },
+
+    {
+      "_id": "mobile2",
+      "image": "/images/mobile2.jpg",
+      "title": "Realmi 7i",
+      "Description": "Realme 7i smartphone was launched on 17th September 2020. The phone comes with a 6.50-inch touchscreen display with a resolution of 720x1600 pixels. Realme 7i is powered by a 2GHz octa-core Qualcomm Snapdragon 662 processor. It comes with 8GB of RAM. The Realme 7i runs Android 10 and is powered by a 5000mAh battery. The Realme 7i supports proprietary fast charging.",
+      "price": 11999
+    },
+    
+    {
+      "_id": "mobile3",
+      "image": "/images/mobile3.jpg",
+      "title": "Realmi Narzo 10",
+      "Description": "Realme Narzo 10 smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55) processor. It runs on the MediaTek Helio G80 Chipset. It has 4 GB RAM and 128 GB internal storage.",
+      "price": 9999
+    }
+
+    ,
+    
+    {
+      "_id": "mobile4",
+      "image": "/images/mobile4.jpg",
+      "title": "Samsung Galaxy M21",
+      "Description": "Samsung Galaxy M21 smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa core (2.3 GHz, Quad core, Cortex A73 + 1.7 GHz, Quad core, Cortex A53) processor. It runs on the Samsung Exynos 9 Octa 9611 Chipset. It has 4 GB RAM and 64 GB internal storage.",
+      "price": 12999
+    }
+
+    ,
+    
+    {
+      "_id": "mobile5",
+      "image": "/images/mobile5.jpg",
+      "title": "Nokia 5.3",
+      "Description": "Nokia 5.3 smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa core (2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260) processor. It runs on the Qualcomm Snapdragon 665 Chipset. It has 3 GB RAM and 64 GB internal storage.",
+      "price": 12999
+    }
+    ,
+    
+    {
+      "_id": "mobile6",
+      "image": "/images/mobile6.jpg",
+      "title": "Redmi note9",
+      "Description": " It sports a 6.53-inch display with a hole-punch on the top left corner. ... The Redmi Note 9 Is powered by a MediaTek Helio G85 SoC. The Redmi Note 9 is available in three variants; 4GB of RAM with 64GB of storage, 4GB of RAM with 128GB of storage, and 6GB of RAM with 128GB of storage.",
+      "price": 14999
+    }
+    ,
+    
+    {
+      "_id": "mobile7",
+      "image": "/images/mobile7.jpg",
+      "title": "OnePlus 5",
+      "Description": "The phone is powered by Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280) processor. It runs on the Qualcomm Snapdragon 835 MSM8998 Chipset. It has 6 GB RAM and 64 GB internal storage. OnePlus 5 smartphone has a Optic AMOLED display.",
+      "price": 15999
+    }
+    ,
+    
+    {
+      "_id": "mobile8",
+      "image": "/images/mobile8.jpg",
+      "title": "Oppo A53",
+      "Description": " The phone comes with a 6.50-inch touchscreen display with a resolution of 720x1600 pixels at a pixel density of 269 pixels per inch (ppi) and an aspect ratio of 20:9. Oppo A53 2020 is powered by a 1.8GHz octa-core Qualcomm Snapdragon 460 processor.",
+      "price": 12999
+    }
+    ,
+    
+    {
+      "_id": "mobile9",
+      "image": "/images/mobile9.jpg",
+      "title": "Realmi 6i",
+      "Description": "The Realme 6i has a quad-camera setup at the back with a 48-megapixel primary camera, an 8-megapixel ultra-wide-angle camera, a 2-megapixel macro camera and a 2-megapixel depth sensor. ... The Realme 6i packs in a 4,300mAh battery which offers all-day battery life. It is also bundled with a 20W charger for quick charging.",
+      "price": 12999
+    }  ,
+    
+    {
+      "_id": "mobile10",
+      "image": "/images/mobile10.jpg",
+      "title": "Vivio Y20",
+      "Description": "Vivo Y20 smartphone was launched on 26th August 2020. The phone comes with a 6.51-inch touchscreen display with a resolution of 720x1600 pixels. It comes with 4GB of RAM. The Vivo Y20 runs Android 10 and is powered by a 5000mAh battery. The Vivo Y20 supports proprietary fast charging.",
+      "price": 12999
+    }
+
+  ]
+}
