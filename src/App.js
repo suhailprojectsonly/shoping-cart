@@ -1,6 +1,7 @@
 //feature
 
 import React from "react";
+import Filter from "./components/Filter";
 import Products from "./components/Products";
 import data from "./data.json";
 
@@ -10,7 +11,11 @@ class App extends React.Component {
     this.state = {
       products: data.products,
       sort: "",
-    };
+    }; 
+  }
+
+  sortProduct(event){
+
   }
 
   render() {
@@ -18,12 +23,18 @@ class App extends React.Component {
       <div className="grid-container">
         <header>
           <a href="/">Shoping Cart </a>
-        </header>
+        </header> 
 
         <main>
           <div className="content">
             <div className="main">
+<Filter count={this.state.products.length}>
 
+sort ={this.state.sort }
+filterProducts={this.filterProducts}
+
+
+</Filter>
               <Products products={this.state.products}></Products>
 
             </div>
