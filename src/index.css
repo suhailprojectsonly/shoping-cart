@@ -138,5 +138,19 @@ footer{
 }
 
 .button.primary{
-  background-color: rgb(238, 182, 78);
+  background-color: rgb(184, 152, 93);
 }
+
+.filter
+{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+  
+}
+
+ .filter div{
+    float: 1;
+ }
