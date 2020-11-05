@@ -35,7 +35,7 @@ a:hover{
 
 header{
 grid-area: header; 
-background-color: #203040;
+background-color:rgb(89, 22, 153);
 color: white;
 display: flex;
 align-items: center;
@@ -43,7 +43,9 @@ padding: 0.5rem;
 }
 
 header a{
+  padding-left: 10px;
   color: white;
+  font-weight: bold;
   text-decoration: none;
 
 }
@@ -126,10 +128,12 @@ footer{
   font-weight: bold;
 }
 
+
+
 .button{
   padding: 1rem;
   border: .1rem #c0c0c0 solid;
-  background-color: white ;
+  background-color: rgba(204, 222, 241, 0.808) ;
   cursor: pointer;
 }
 
@@ -138,7 +142,8 @@ footer{
 }
 
 .button.primary{
-  background-color: rgb(184, 152, 93);
+  background-color: rgba(180, 190, 36, 0.877);
+  font-weight: bold;
 }
 
 .filter
@@ -227,5 +232,32 @@ form{
 input{
   padding: 1rem;
   border: .1rem #c0c0c0 solid;
-  
+
+}
+
+/* Products details */
+
+.product-details{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-height: 96vh;
+}
+
+.product-details img{
+  max-height: 100vh;
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+.product-details-description {
+  flex: 1 1;
+  margin: 1rem;
+}
+
+.close-model{
+  position: absolute;
+  right: 1 rem;
+  top: 2.5rem;
+  z-index: 1000;
 }
