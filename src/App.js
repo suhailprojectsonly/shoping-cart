@@ -15,7 +15,7 @@ class App extends React.Component {
   }
 
   createOrder = (order) =>{
-    alert("Need to save order for " + order.name)
+    alert(order.name + " your order is successfully submitted");
   }
   removeFromCart = (product) => {
 
@@ -95,7 +95,7 @@ class App extends React.Component {
           </div>
         </main>
 
-        <footer>Alright is preserverd!</footer>
+        <footer>Sample cart project</footer>
       </div>
     );
   }

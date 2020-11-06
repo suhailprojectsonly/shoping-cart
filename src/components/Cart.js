@@ -38,7 +38,7 @@ export default class Cart extends Component {
           <div className=" cart cart-header">Cart is empty!</div>
         ) : (
           <div className=" cart cart-header">
-            You have {cartItems.length} item(s) in the cart{" "}
+            You have {cartItems.length} item(s) in the cart..{" "}
           </div>
         )}
 
